@@ -1,3 +1,6 @@
+This repository is a copy of [Raynes/fs](https://github.com/Raynes/fs) which seems not to be updated currently.
+It is an attempt to improve and maintain this lib regularly.
+Thank you Anthony for the work you have done so far!
 # fs - File system utilities for Clojure
 
 [![Build Status](https://secure.travis-ci.org/Raynes/fs.png)](http://travis-ci.org/Raynes/fs)
